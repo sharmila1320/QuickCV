@@ -1,18 +1,18 @@
-import mongoose from "mongoose";
-import { config } from "dotenv";
+import mongoose from 'mongoose';
+import dotenv from 'dotenv';
 
-config();
-
+dotenv.config();   // This must be called before using process.env
+console.log('MONGODB_URL:', process.env.MONGODB_URL);
 async function main() {
-    try {
-        await mongoose.connect(process.env.MONGODB_URL, {
-            serverSelectionTimeoutMS: 5000, // 5s timeout
-        });
-        console.log("✅ MongoDB connected successfully");
-    } catch (err) {
-        console.error("❌ MongoDB connection error:", err.message);
-        process.exit(1);
-    }
+  try {
+    await mongoose.connect(process.env.MONGODB_URL, {
+      serverSelectionTimeoutMS: 5000
+    });
+    console.log('✅ MongoDB connected successfully');
+  } catch (err) {
+    console.error('❌ MongoDB connection error:', err.message);
+    process.exit(1);
+  }
 }
 
 main();
