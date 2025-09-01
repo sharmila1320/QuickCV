@@ -26,11 +26,12 @@ It provides **customizable templates**, an intuitive interface, and powerful fea
 - Express.js
 - MongoDB (Mongoose)
 
-### Deployment
+### Deployment (Future scope)
 - Vercel (Frontend)
 - Render / Railway / Heroku (Backend)
 - MongoDB Atlas (Database)
 
 ---
-
+### Demo 
+Check out QuickCVREC.mp4 from my github.
 
