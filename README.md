@@ -34,4 +34,4 @@ It provides **customizable templates**, an intuitive interface, and powerful fea
 ---
 ### Demo 
 Check out QuickCVREC.mp4 from my github.
-
+https://github.com/sharmila1320/QuickCV/blob/main/QuickCVREC.mp4
