@@ -1,4 +1,4 @@
-# 🚀 QuickCV
+#  QuickCV
 
 QuickCV is a **MERN stack application** that helps users build **professional, ATS-friendly resumes** with ease.  
 It provides **customizable templates**, an intuitive interface, and powerful features to help fresh graduates and professionals create resumes that stand out.  
@@ -6,12 +6,12 @@ It provides **customizable templates**, an intuitive interface, and powerful fea
 ---
 
 ## 📌 Features
-- 🎨 **Customizable Resume Templates** (industry-ready designs)
-- ⚡ **ATS-Friendly Export** (PDF/Doc formats)
-- 🔎 **Real-time Preview** of your resume
-- 💾 **Save & Manage Multiple Resumes**
-- 🌐 **Responsive UI** (works across desktop & mobile)
-- 🔐 **MongoDB Integration** for storing user data
+-  **Customizable Resume Templates** (industry-ready designs)
+-  **ATS-Friendly Export** (PDF/Doc formats)
+-  **Real-time Preview** of your resume
+-  **Save & Manage Multiple Resumes**
+-  **Responsive UI** (works across desktop & mobile)
+-  **MongoDB Integration** for storing user data
 
 ---
 
@@ -33,4 +33,4 @@ It provides **customizable templates**, an intuitive interface, and powerful fea
 
 ---
 
-## 📂 Folder Structure
+
